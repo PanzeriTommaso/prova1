@@ -16,6 +16,8 @@ public class Prova1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    
+    if(0<1){
+    System.out.println("ciao benvenuto");
+    }
     }    
 }
